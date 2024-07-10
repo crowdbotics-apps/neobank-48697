@@ -21,6 +21,7 @@
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/qr-code": "file:./modules/qr-code/",
+    "@modules/subscription": "file:./modules/subscription",
     "@modules/terms-and-conditions-webview": "file:./modules/terms-and-conditions-webview/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@modules/wallet-connect": "file:./modules/wallet-connect/",
