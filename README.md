@@ -75,6 +75,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-paypal](backend/modules)
 - [faq]()
 - [subscription]()
+- [social-feed]()
 
 # Getting started: Frontend
 
