@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/appointment-local": "file:./modules/appointment-local/",
+    "@modules/faq": "file:./modules/faq",
     "@modules/mixpanel-analytics": "file:./modules/mixpanel-analytics/",
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
